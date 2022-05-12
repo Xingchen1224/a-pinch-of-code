@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/utils/.vs
+/utils/out
+/code_snippet/.vs/code_snippet/v17
+/code_snippet/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.5
+/code_snippet/utils/x64
+/code_snippet/utils_test/x64
+/code_snippet/x64
